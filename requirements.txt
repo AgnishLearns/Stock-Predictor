@@ -1,0 +1,1 @@
+pip install streamlit yfinance ta scikit-learn xgboost
